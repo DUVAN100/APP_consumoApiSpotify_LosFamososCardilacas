@@ -1,0 +1,10 @@
+.img-size {
+    object-fit: cover;
+    height: 60%;
+    max-width: 100%;
+    
+}
+.bodycss{
+    height: 40%;
+}
+
